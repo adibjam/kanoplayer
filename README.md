@@ -1,24 +1,45 @@
-# Kano Player Configuration Generator
+# Online KANO Configuration Generator
 
-An offline web-based generator for creating **KANO configuration files (.kano)** used by **Kano Player**.
+You can generate KANO configuration files directly from your browser.
 
-The generator runs entirely in your browser. No data is uploaded to any server.
+### Online Generator
 
-## Features
+https://zhinland.ir/kano
 
-- ✅ Offline configuration generator
-- ✅ Password-protected KANO files
-- ✅ Public KANO files
-- ✅ AES-256 encrypted configuration files
-- ✅ Custom creator information
-- ✅ Telegram channel/profile support
-- ✅ Export to `.kano` format
+The generator works entirely in your browser and does not require any software installation.
+
+## How to Use
+
+1. Open the online generator.
+2. Paste your JSON configuration.
+3. (Optional) Enter creator information and a Telegram username.
+4. (Optional) Set a password to create a private configuration.
+5. Click **Generate**.
+6. Download the generated **.kano** file.
+
+## Share Your Configuration
+
+After generating the `.kano` file:
+
+1. Upload the file to your own web server or any file hosting service that provides a direct download link.
+2. Copy the direct URL of the uploaded `.kano` file.
+3. Share the link with Kano Player users.
+
+Example:
+
+```text
+https://example.com/config.kano
+```
+
+Users can import the configuration directly into Kano Player using this URL.
+
+> **Note**
+>
+> Kano Player does not host configuration files. Configuration creators are responsible for uploading and maintaining their own `.kano` files.
 
 ---
 
-# JSON Format
-
-The generator accepts a JSON configuration in the following format.
+# Sample JSON
 
 ```json
 {
