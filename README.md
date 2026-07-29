@@ -6,7 +6,7 @@ Kano Player configuration file generate
 * 1 : audio
 * 2 : other(download)
 
-
+```
 {
   "type":0,
   "downloadable":false,
@@ -29,3 +29,4 @@ Kano Player configuration file generate
     }
   ]
 }
+```
