@@ -1,0 +1,76 @@
+Privacy Policy
+
+Effective Date: July 29, 2026
+
+Thank you for using Kano Player.
+
+Your privacy is important to us. This Privacy Policy explains how Kano Player handles information when you use the application.
+
+About Kano Player
+
+Kano Player is a media player that loads and plays content referenced by KANO configuration files. The application does not host, publish, upload, or distribute any media content.
+
+Information We Collect
+
+Kano Player does not require user registration and does not collect personal information such as your name, email address, phone number, or account credentials.
+
+The application does not operate any servers for collecting or storing user data.
+
+KANO Files
+
+KANO configuration files are created and distributed by users or third parties.
+
+When you import a KANO file, all processing is performed locally on your device.
+
+If a KANO file is password protected, the password is used only on your device to decrypt the file. Passwords are never transmitted to the developer or any external server.
+
+Device Permissions
+
+Kano Player only requests the permissions required for its core functionality.
+
+Currently, the application does not request access to your camera, microphone, contacts, location, or other sensitive personal information.
+
+Internet access is required only to retrieve media or configuration files referenced by KANO files.
+
+Advertising
+
+Kano Player displays advertisements provided by third-party advertising partners, including:
+
+*   [AdMob](https://policies.google.com/technologies/partner-sites)
+*   [Appodeal](https://appodeal.com/privacy-policy)
+
+These services may collect device information, advertising identifiers, IP address, approximate location, and other technical information as described in their own privacy policies for the purpose of delivering advertisements.
+
+Kano Player does not control the data collection practices of these third-party advertising providers.
+
+Third-Party Content
+
+The application only plays content referenced by KANO configuration files.
+
+The developer does not create, review, host, monitor, or control third-party content, external websites, or media links contained in KANO files.
+
+Users are solely responsible for the KANO files they import and the content they access through the application.
+
+Data Security
+
+All KANO file processing and decryption are performed locally on your device.
+
+The developer does not receive or store your KANO files, passwords, or media history.
+
+Children's Privacy
+
+Kano Player is not specifically intended for children under the age of 13.
+
+Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes become effective when the updated version is published.
+
+Contact
+
+If you have any questions regarding this Privacy Policy, please contact the developer through the official support channel provided with the application.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at emirkoch2025@gmail.com.
+
+

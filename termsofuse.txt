@@ -1,0 +1,72 @@
+# Terms of Use
+
+**Effective Date:** July 29, 2026
+
+By downloading, installing, or using Kano Player, you agree to these Terms of Use.
+
+## 1. Purpose of the Application
+
+Kano Player is a media player designed to read KANO configuration files and play content referenced by those files.
+
+The application itself does not provide, host, upload, or distribute any media content.
+
+## 2. User Responsibility
+
+Users are solely responsible for:
+
+* The KANO configuration files they create, import, or distribute.
+* The legality of the content referenced by those files.
+* Compliance with applicable copyright and intellectual property laws.
+
+## 3. Third-Party Content
+
+KANO files may contain links to media hosted by third parties.
+
+The developer has no control over the availability, legality, accuracy, security, or ownership of any third-party content.
+
+The developer is not responsible for any content accessed through KANO files.
+
+## 4. Advertisements
+
+The application displays advertisements provided by third-party advertising services, including Google AdMob and Appodeal.
+
+The developer is not responsible for the content, products, or services promoted within advertisements delivered by these advertising networks.
+
+## 5. Availability
+
+The developer does not guarantee that any external media, links, or KANO files will remain available or accessible.
+
+External resources may be modified, removed, or become unavailable at any time.
+
+## 6. Intellectual Property
+
+Kano Player, the KANO file format, application design, logos, and software are the intellectual property of the developer.
+
+Users may not copy, modify, redistribute, reverse engineer, or create derivative works from the application except where permitted by applicable law.
+
+## 7. Disclaimer
+
+Kano Player is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind.
+
+The developer makes no guarantees regarding uninterrupted operation, compatibility with all devices, or the availability of third-party content.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the developer shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from:
+
+* The use of the application.
+* Third-party content.
+* KANO configuration files created or distributed by users.
+* External websites or services referenced by KANO files.
+
+## 9. Changes to These Terms
+
+These Terms of Use may be updated periodically.
+
+Continued use of Kano Player after changes become effective constitutes acceptance of the revised Terms.
+
+## 10. Contact
+
+For questions regarding these Terms of Use, please contact the developer through the official support channel provided with the application or via emirkoch2025@gmail.com.
+
+
