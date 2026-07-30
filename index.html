@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>KANO Creator</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+
+        <h1>KANO Creator</h1>
+
+        <p>Create KANO Configuration Files</p>
+
+    </div>
+
+    <div class="card">
+
+        <label>Package title</label>
+
+        <input
+                id="creator"
+                type="text"
+                maxlength="50"
+                placeholder="e.g. Music album">
+
+        <label>Telegram Username</label>
+
+        <input
+                id="telegram"
+                type="text"
+                maxlength="32"
+                placeholder="e.g. kanohub">
+
+        <label>Password (Optional)</label>
+
+        <input
+                id="password"
+                type="password"
+                placeholder="Leave empty for a public configuration">
+
+        <label>Output File Name</label>
+
+        <input
+                id="filename"
+                type="text"
+                value="config">
+
+        <label>JSON Configuration</label>
+
+        <textarea id="json">
+{
+  "type": 0,
+  "downloadable": false,
+  "category": [
+    "Category 1"
+  ],
+  "items": [
+    {
+      "category_position": [0],
+      "title": "Sample Item",
+      "link": "https://example.com/file.mp4"
+    }
+  ]
+}
+        </textarea>
+
+        <button id="createBtn">
+            Generate KANO File
+        </button>
+
+    </div>
+
+</div>
+
+<script src="crypto.js"></script>
+<script src="kano.js"></script>
+<script src="app.js"></script>
+
+</body>
+
+</html>
