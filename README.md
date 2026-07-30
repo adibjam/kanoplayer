@@ -4,7 +4,7 @@ You can generate KANO configuration files directly from your browser.
 
 ### Online Generator
 
-https://zhinland.ir/kano
+[https://adibjam.github.io/kanoplayer/]
 
 The generator works entirely in your browser and does not require any software installation.
 
